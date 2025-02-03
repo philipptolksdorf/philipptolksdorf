@@ -30,8 +30,5 @@ In my spare time, you'll often find me tinkering with my own small Kubernetes cl
 - ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=orange)
 - ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=blue)
 
-## 📫 Let's Connect!
-
-If you're interested in collaborating on projects, discussing technology, or just want to connect, feel free to reach out to me via [Linq](https://linqapp.com/philipp_tolksdorf). I'm always open to new opportunities and exciting challenges!
 
 Thanks for stopping by! 😊
